@@ -6,3 +6,6 @@
 left = 0
 right = len(s) - 1
 ```
+- [ ] Have dinner
+- [x] Have lunch
+- [ ] Have breakfast
